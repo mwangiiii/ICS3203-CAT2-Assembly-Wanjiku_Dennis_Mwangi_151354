@@ -1,6 +1,6 @@
 # Assembly Program - Control Flow and Logic Tasks
 
-## 1. Control Flow and Conditional Logic (6 Marks)
+## 1. Control Flow and Conditional Logic
 
 ### Task Description:
 This program prompts the user to input a number and then classifies it as "POSITIVE," "NEGATIVE," or "ZERO." It uses **branching logic** to determine the classification.
@@ -21,7 +21,7 @@ This program prompts the user to input a number and then classifies it as "POSIT
 
 ---
 
-## 2. Array Manipulation with Looping and Reversal (6 Marks)
+## 2. Array Manipulation with Looping and Reversal
 
 ### Task Description:
 This program accepts an array of 5 integers from the user, reverses the array in place without using extra memory, and outputs the reversed array.
@@ -41,7 +41,7 @@ This program accepts an array of 5 integers from the user, reverses the array in
 
 ---
 
-## 3. Modular Program with Subroutines for Factorial Calculation (4 Marks)
+## 3. Modular Program with Subroutines for Factorial Calculation
 
 ### Task Description:
 This program computes the factorial of a number entered by the user using a subroutine to perform the calculation.
@@ -60,7 +60,7 @@ This program computes the factorial of a number entered by the user using a subr
   
 ---
 
-## 4. Data Monitoring and Control Using Port-Based Simulation (4 Marks)
+## 4. Data Monitoring and Control Using Port-Based Simulation
 
 ### Task Description:
 This program simulates a control system where it reads a **sensor value** (e.g., water level) from a specified memory location and performs actions based on the input, such as turning on a motor or triggering an alarm.
